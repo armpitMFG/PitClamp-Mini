@@ -1,0 +1,6 @@
+PitClamp BOM
+M3x12 x 
+
+2x M4x25 Socket Cap Head Bolt
+1x M4x12 Socket Cap Head Bolt
+3x M4 Nut
