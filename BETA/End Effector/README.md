@@ -15,6 +15,6 @@ Inspired by JRG's clampring tidy-up
 
 
 **Printing**  
- ![](images/Print.png)
+ ![](Images/Print.png)
 
 **Assembly**  
