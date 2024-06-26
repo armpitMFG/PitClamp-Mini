@@ -2,8 +2,8 @@
 
 **Summary**  
 //TODO  
-//This is currently pre-release W.I.P.  
-//I am releasing select files along the way that can be used for other projects
+This is currently pre-release W.I.P.  
+I am releasing select files along the way that can be used for other projects  
 
 ![](BETA/Images/PitClamp_Mini_Profile.png)
 
