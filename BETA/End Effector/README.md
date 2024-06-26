@@ -15,6 +15,7 @@ Inspired by JRG's clampring tidy-up
 
 
 **Printing**  
+Use a 2 layer raft under the threads for better adhesion
  ![](Images/Print.png)
 
 **Assembly**  
