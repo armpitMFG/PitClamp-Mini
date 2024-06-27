@@ -1,8 +1,8 @@
 ## Screwcap Mini Tensioner
 
- ![](images/Screwcap_Mini_Tensioner_RC1_Exploded.png)
-  ![](images/Screwcap_Mini_Tensioner_RC1_Alt.png)
-  ![](images/Screwcap_Mini_Tensioner_RC1_Cutaway.png)
+ ![](Images/Screwcap_Mini_Tensioner_RC1_Exploded.png)
+  ![](Images/Screwcap_Mini_Tensioner_RC1_Alt.png)
+  ![](Images/Screwcap_Mini_Tensioner_RC1_Cutaway.png)
 
 Inspired by Jack's 24mm effector + tensioner  
 Inspired by JRG's clampring tidy-up
@@ -29,7 +29,7 @@ Screwcap_Mini_Tensioner_Base - Print on a small raft, I used 2 layer raft
 
 For best results, print using "Variable layer height" for Screwcap_Mini_Tensioner_Base and Screwcap_Mini_Tensioner_Cap. It's really worth the extra time here.
 
-  ![](images/Screwcap_Mini_Tensioner_RC1_Print.png)
+  ![](Images/Screwcap_Mini_Tensioner_RC1_Print.png)
 
 **Assembly**  
 Drop nut into the Base. Screw in the bolt lightly from the other side until the nut is secured into the base of the hole.  
