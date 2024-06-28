@@ -3,19 +3,25 @@
 _This is currently pre-release W.I.P._  
 _I am releasing select files along the way that can be used for other projects_  
 
-**Summary**  
+## Summary    
 Secure mounting and easy rotational adjustment of 42AIM, 57AIM, iHSV57, NEMA23 closed loop servo motor form factors.  
 Primary application is for thrusting sex machine (OSSM - Open Source Sex Machine)
 
+![](BETA/Images/PitClamp_Mini_Profile.png)
+![](BETA/Images/PitClamp_Mini_Motor_Front.png)
+
+
 ## Features  
   - Motor can be completely removed from mount    
-  - Selection of bases for different use cases  
+  - Selection of bases for different use cases
+    - 4040 Extrusion
+    - Tabletop compact clamp
+    - Experimental TBD
   - Relocatable OSSM Reference Board v2  
   - (Optional) Capacitor located on motor for solder-less pre-v2.3 board compatability  
   - 4 degree rotational granularity  
     
 ## Roadmap  
-
 **Motor Rings:**
   - 42AIM Motor Ring: 95%  
   - 57AIM Motor Ring: 25%
@@ -57,9 +63,6 @@ Primary application is for thrusting sex machine (OSSM - Open Source Sex Machine
 //TODO: add more detail  
 
 
-
-![](BETA/Images/PitClamp_Mini_Profile.png)
-![](BETA/Images/PitClamp_Mini_Motor_Front.png)
 ![](BETA/Images/PitClamp_Mini_Primary_Bare.png)
 ![](BETA/Images/PitClamp_Mini_Primary_Built.png)
 ![](BETA/Images/PitClamp_Mini_Overall_Board_Attached.png)
