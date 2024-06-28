@@ -13,7 +13,6 @@ Primary application is for thrusting sex machine (OSSM - Open Source Sex Machine
   - Relocatable OSSM Reference Board v2  
   - (Optional) Capacitor located on motor for solder-less pre-v2.3 board compatability  
   - 4 degree rotational granularity  
-  - Sensor-homing cable passthrough for pre-v2.2 board compatability
     
 ## Roadmap  
 
