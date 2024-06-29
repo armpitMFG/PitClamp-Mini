@@ -14,12 +14,12 @@ Primary application is for thrusting sex machine (OSSM - Open Source Sex Machine
 ## Features  
   - Motor can be completely removed from mount    
   - Selection of bases for different use cases
-    - 4040 Extrusion
+    - 4040 or 3030 Extrusion
     - Tabletop compact clamp
     - Experimental TBD
   - Relocatable OSSM Reference Board v2  
   - (Optional) Capacitor located on motor for solder-less pre-v2.3 board compatability  
-  - 4 degree rotational granularity  
+  - 4 degree rotational granularity
     
 ## Roadmap  
 **Motor Rings:**
@@ -50,14 +50,14 @@ Primary application is for thrusting sex machine (OSSM - Open Source Sex Machine
   - Mini End Effector: 95%
   - XL End Effector: 95%
 
-## Improvements from PitClamp v3 
+## Changes from PitClamp v3 
   - Support added for 42AIM motor  
   - Motor ring diameter reduced by 15%  
   - Overall filament required reduced by 25%  
   - Clamping rotational grip strength increased  
-  - Clamp "helper" notches added to reduce adjustment clunkyness  
+  - Clamp "helper" added to reduce adjustment noise/clunkyness  
   - Print clarity improved (and optional-default-none) for first and last layer "PitClamp" branding  
-  
+  - Rear hinge pin is no longer a printed piece
 
 
 //TODO: add more detail  
