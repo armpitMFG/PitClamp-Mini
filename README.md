@@ -24,17 +24,16 @@ Primary application is for thrusting sex machine (OSSM - Open Source Sex Machine
 ## Roadmap  
 **Motor Rings:**
   - 42AIM Motor Ring: 95%  
-  - 57AIM Motor Ring: 25%
-  - iHSV57 Motor Ring: 25%
+  - 57AIM Motor Ring: 75%
+  - iHSV57 Motor Ring: 75%
 
 **Clamping Components:**
   - Upper Clamp: 95%  
   - Lower Clamp 4040 Base: 90%  
   - Lower Clamp Tabletop Base: 0%
   - Lower Clamp Experimental Base: 10%
-  - Handle: 80%  
-  - Dogbones: 95%  
-  - Hinge Pin: 95%
+  - Handle: 95%  
+  - Dogbones: 95% 
 
 **Relocatable Reference Board:**
   - Reference Board Case: 75%  
@@ -53,11 +52,12 @@ Primary application is for thrusting sex machine (OSSM - Open Source Sex Machine
 ## Changes from PitClamp v3 
   - Support added for 42AIM motor  
   - Motor ring diameter reduced by 15%  
-  - Overall filament required reduced by 25%  
-  - Clamping rotational grip strength increased  
-  - Clamp "helper" added to reduce adjustment noise/clunkyness  
-  - Print clarity improved (and optional-default-none) for first and last layer "PitClamp" branding  
-  - Rear hinge pin is no longer a printed piece
+  - Overall filament required reduced by over 25%  
+  - Clamp rotational grip strength increased
+  - (Experimental) Ring is now reversible  
+  - (Experimantal) Clamp "helper" added to reduce adjustment noise/clunkyness  
+  - (Experimental) Rear hinge pin is no longer a printed piece
+  - Print clarity improved (and optional-default-none) for first and last layer "PitClamp" & "armpitMFG" branding  
 
 
 ## Motor Rings:
