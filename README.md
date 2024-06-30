@@ -60,11 +60,20 @@ Primary application is for thrusting sex machine (OSSM - Open Source Sex Machine
   - Rear hinge pin is no longer a printed piece
 
 
-//TODO: add more detail  
+## Motor Rings:
+
+**57AIM - 57AIM15, 57AIM30**  
+![](BETA/Images/PitClamp_Mini_Ring_57AIM.png)  
+**iHSV57 -  100w, 140w, 180w**  
+![](BETA/Images/PitClamp_Mini_Ring_iHSV57.png)
+**42AIM - 42AIM15, 42AIM30**
+![](BETA/Images/PitClamp_Mini_Ring_42AIM.png)  
 
 
+<!--
 ![](BETA/Images/PitClamp_Mini_Primary_Bare.png)
 ![](BETA/Images/PitClamp_Mini_Primary_Built.png)
 ![](BETA/Images/PitClamp_Mini_Overall_Board_Attached.png)
-![](BETA/Images/PitClamp_Mini_Overall_Board_External.png)
+![](BETA/Images/PitClamp_Mini_Overall_Board_External.png) 
+-->
 
