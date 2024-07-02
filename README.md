@@ -7,8 +7,8 @@ _I am releasing select files along the way that can be used for other projects_
 Secure mounting and easy rotational adjustment of 42AIM, 57AIM, iHSV57, NEMA23 closed loop servo motor form factors.  
 Primary application is for thrusting sex machine (OSSM - Open Source Sex Machine)
 
-![](BETA/Images/PitClamp_Mini_Profile.png)
-![](BETA/Images/PitClamp_Mini_Motor_Front.png)
+![](BETA/Images/PitClamp_Mini_Profile_2.png)
+![](BETA/Images/PitClamp_Mini_Motor_Front_2.png)
 
 
 ## Features  
