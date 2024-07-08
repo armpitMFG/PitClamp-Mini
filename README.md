@@ -24,12 +24,12 @@ Primary application is for thrusting sex machine (OSSM - Open Source Sex Machine
 ## Roadmap  
 **Motor Rings:**
   - 42AIM Motor Ring: 95%  
-  - 57AIM Motor Ring: 75%
-  - iHSV57 Motor Ring: 75%
+  - 57AIM Motor Ring: 95%
+  - iHSV57 Motor Ring: 95%
 
 **Clamping Components:**
   - Upper Clamp: 95%  
-  - Lower Clamp 4040 Base: 90%  
+  - Lower Clamp 4040 Base: 95%  
   - Lower Clamp Tabletop Base: 0%
   - Lower Clamp Experimental Base: 10%
   - Handle: 95%  
