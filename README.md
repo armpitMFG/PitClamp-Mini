@@ -23,9 +23,10 @@ Primary application is for thrusting sex machine (OSSM - Open Source Sex Machine
     
 ## Roadmap  
 **Motor Rings:**
-  - 42AIM Motor Ring: 95%  
-  - 57AIM Motor Ring: 95%
-  - iHSV57 Motor Ring: 95%
+  - 42AIM Motor Ring: 100%  
+  - 57AIM Motor Ring: 100%
+  - iHSV57 Motor Ring: 100%
+  - (Experimental) Extrusion Adapter Ring: 90%
 
 **Clamping Components:**
   - Upper Clamp: 100%  
@@ -55,7 +56,7 @@ Primary application is for thrusting sex machine (OSSM - Open Source Sex Machine
   - Overall filament required reduced by over 25%  
   - Clamp rotational grip strength increased
   - (Experimental) Ring is now reversible  
-  - (Experimantal) Clamp "helper" added to reduce adjustment noise/clunkyness  
+  - (Experimental) Clamp "helper" added to reduce adjustment noise/clunkyness  
   - (Experimental) Rear hinge pin is no longer a printed piece
   - Print clarity improved (and optional-default-none) for first and last layer "PitClamp" & "armpitMFG" branding  
 
