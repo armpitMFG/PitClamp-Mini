@@ -28,12 +28,12 @@ Primary application is for thrusting sex machine (OSSM - Open Source Sex Machine
   - iHSV57 Motor Ring: 95%
 
 **Clamping Components:**
-  - Upper Clamp: 95%  
-  - Lower Clamp 4040 Base: 95%  
+  - Upper Clamp: 100%  
+  - Lower Clamp 4040/3030 Extrusion Base: 100%  
   - Lower Clamp Tabletop Base: 0%
-  - Lower Clamp Experimental Base: 10%
-  - Handle: 95%  
-  - Dogbones: 95% 
+  - Lower Clamp Experimental Base: 70%
+  - Handle: 100%  
+  - Dogbones: 100% 
 
 **Relocatable Reference Board:**
   - Reference Board Case: 75%  
