@@ -22,7 +22,7 @@ Screwcap_Mini_Tensioner_Base - Print on a small raft, I used 2 layer raft
 
 For best results, print using "Variable layer height" for Screwcap_Mini_Tensioner_Base and Screwcap_Mini_Tensioner_Cap. It's really worth the extra time here.
 
-![Print view](Images/Screwcap_Mini_Tensioner_RC1_Print_View.png)
+![Print view](Images/Screwcap_Mini_Tensioner_RC1_Print.png)
 
 **Assembly**  
 Drop nut into the Base. Screw in the bolt lightly from the other side until the nut is secured into the base of the hole.  
