@@ -1,12 +1,12 @@
 ## Screwcap Mini Tensioner
-![Cover Photo](images/Screwcap_Mini_Tensioner_RC1_Alt.png)
+![Cover Photo](Images/Screwcap_Mini_Tensioner_RC1_Alt.png)
 
 **Summary**  
 This is a compact belt tensioner that supports up to 12mm belts.  
 Smooth-styling, no exposed hardware. Safer for accidental contact.  
 
-![Exploded view](images/Screwcap_Mini_Tensioner_RC1_Exploded.png)
-![Cutaway view](images/Screwcap_Mini_Tensioner_RC1_Cutaway.png)
+![Exploded view](Images/Screwcap_Mini_Tensioner_RC1_Exploded.png)
+![Cutaway view](Images/Screwcap_Mini_Tensioner_RC1_Cutaway.png)
 
 **Hardware**  
 M5x10 Socket Cap Head Bolt  
@@ -22,7 +22,7 @@ Screwcap_Mini_Tensioner_Base - Print on a small raft, I used 2 layer raft
 
 For best results, print using "Variable layer height" for Screwcap_Mini_Tensioner_Base and Screwcap_Mini_Tensioner_Cap. It's really worth the extra time here.
 
-![Print view](images/Screwcap_Mini_Tensioner_RC1_Print_View.png)
+![Print view](Images/Screwcap_Mini_Tensioner_RC1_Print_View.png)
 
 **Assembly**  
 Drop nut into the Base. Screw in the bolt lightly from the other side until the nut is secured into the base of the hole.  
