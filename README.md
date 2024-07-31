@@ -26,13 +26,14 @@ Primary application is for thrusting sex machine (OSSM - Open Source Sex Machine
   - 42AIM Motor Ring: 100%  
   - 57AIM Motor Ring: 100%
   - iHSV57 Motor Ring: 100%
-  - (Experimental) Extrusion Adapter Ring: 90%
+  - (Experimental) Extrusion Adapter Ring: 95%
 
 **Clamping Components:**
   - Upper Clamp: 100%  
   - Lower Clamp 4040/3030 Extrusion Base: 100%  
   - Lower Clamp Tabletop Base: 0%
-  - Lower Clamp Experimental Base: 70%
+  - (Experimental) Lower Clamp Folding Base: 100%
+  - Tabletop Clamp Adapter: 100%
   - Handle: 100%  
   - Dogbones: 100% 
 
@@ -46,9 +47,9 @@ Primary application is for thrusting sex machine (OSSM - Open Source Sex Machine
   - TBD, current plan is to use 3rd party head design
 
 **Rail Components:**
-  - Screwcap Mini Tensioner: 95%
-  - Mini End Effector: 95%
-  - XL End Effector: 95%
+  - Screwcap Mini Tensioner: 100%
+  - Mini End Effector: 100%
+  - XL End Effector: 100%
 
 ## Changes from PitClamp v3 
   - Support added for 42AIM motor  
