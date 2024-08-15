@@ -8,8 +8,8 @@ Motor rings:
     For attaching to default OSSM Motor Head
       Without motor cable tidy cover:
         (These bolts can be longer, but the specified length will be flush when installed)
-        2x M5x35 Socket Cap Head Bolt
-        2x M5x40 Socket Cap Head Bolt
+        2x M5x35 Socket Cap Head Bolt (+5mm if using +5mm offset ring)
+        2x M5x40 Socket Cap Head Bolt (+5mm if using +5mm offset ring)
         4x M5 Nuts
       With motor cable tidy cover:
         1x M5x35 Socket Cap Head Bolt
