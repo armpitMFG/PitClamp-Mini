@@ -3,6 +3,7 @@ PitClamp Mini Bill Of Materials
 //TODO: Organize this. Just a stream of thoughts for now.
 
 Motor rings:
+
   57AIM Motor Ring
     For attaching to default OSSM Motor Head
       Without motor cable tidy cover:
@@ -15,11 +16,13 @@ Motor rings:
         1x M5x40 Socket Cap Head Bolt
         2x M5x50 Socket Cap Head Bolt
         4x M5 Nuts
+
   42AIM Motor Ring
     For attaching to SpockAroundTheClock's Compact Motor Head
       1x M5x45 or M5x50 Socket Cap Head Bolt (Longer is okay but will not be flush)
       1x M5 Nut
       4x M3x16 Socket Cap Head Bolt
+
   Extrusion Ring:
     For attaching to 3030 extrusion:
       2x M6x20 Socket Cap Head Bolt //TODO: Confirm that M6x25 is too long
@@ -35,10 +38,15 @@ Handle Mechanism:
   3x M4 Nut
 
 Bases:
+
   Standard Base:
     Rear Hinge:
       1x M6x20 Socket Cap Head Bolt
       1x M6 Nut
+    Attaching Base to Extrusion:
+      2x M6x20 (M6x14 for 3030 Extrusion) Socket Cap Head Bolt
+      2x M6 T-Nut
+
   Double Hinge Base:
     Rear Hinge:
       1x M6x20 Socket Cap Head Bolt
@@ -46,6 +54,10 @@ Bases:
     Front Hinge:
       1x M6x20 Socket Cap Head Bolt
       1x M6 Nut
+    For attaching Base to Extrusion:
+      2x M6x20 (M6x14 for 3030 Extrusion) Socket Cap Head Bolt
+      2x M6 T-Nut
+
   Side Mount Base:
     For attaching to 3030 extrusion:
       2x M6x20 Socket Cap Head Bolt //TODO: Confirm that M6x25 is too long
