@@ -21,6 +21,13 @@ Motor rings:
       1x M5 Nut
       4x M3x16 Socket Cap Head Bolt
   Extrusion Ring:
+    For attaching to 3030 extrusion:
+      2x M6x20 Socket Cap Head Bolt //TODO: Confirm that M6x25 is too long
+      2x M6 T-Nut
+    For attaching to 4040 extrusion:
+      2x M6x25 Socket Cap Head Bolt
+      2x M6 T-Nut
+
 
 Handle Mechanism:
   2x M4x25 Socket Cap Head Bolt
