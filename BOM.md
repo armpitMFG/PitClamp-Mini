@@ -14,8 +14,7 @@
           1x M5x50 Socket Cap Head Bolt
           4x M5 Nuts
 
-### 42AIM Motor Ring
-    For attaching SpockAroundTheClock's Compact Motor Head
+### 42AIM Motor Ring + SpockAroundTheClock's Compact Motor Head
       1x M5x50 Socket Cap Head Bolt
       1x M5 Nut
       4x M3x16 Socket Cap Head Bolt
@@ -25,7 +24,7 @@
       1x M5 Nut
       4x M3x16 Socket Cap Head Bolt
 
-### (FUTURE) Extrusion Ring:
+### (FUTURE) Extrusion Ring
     For attaching to 3030 extrusion:
       2x M6x20 Socket Cap Head Bolt //TODO: Confirm that M6x25 is too long
       2x M6 T-Nut
@@ -48,7 +47,7 @@
       2x M6x20 (M6x14 for 3030 Extrusion) Socket Cap Head Bolt
       2x M6 T-Nut
 
-###  Double Hinge Base:
+###  Double Hinge Base
     Rear Hinge:
       1x M6x20 Socket Cap Head Bolt
       1x M6 Nut
@@ -59,7 +58,7 @@
       2x M6x20 (M6x14 for 3030 Extrusion) Socket Cap Head Bolt
       2x M6 T-Nut
 
-### (FUTURE) Side Mount Base:
+### (FUTURE) Side Mount Base
     For attaching to 3030 extrusion:
       2x M6x20 Socket Cap Head Bolt //TODO: Confirm that M6x25 is too long
       2x M6 T-Nut
