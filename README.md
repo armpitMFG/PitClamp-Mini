@@ -17,18 +17,24 @@ Secure mounting and easy rotational adjustment of 42AIM, 57AIM, iHSV57, NEMA23 c
   - 4 degree precision quick-adjustable rotation
   - Motor can be quickly removed from mount for storage or use in another base
   - Selection of bases for different use cases
-    - 4040 or 3030 Extrusion Top Mount
+    - Extrusion Top Mount (Extrusion agnostic, but was designed for as small as 3030)
     - Quick Clamp Ratchet + 3030 Extrusion Mount
       - (This mount is the reason behind the whole project)
     - (FUTURE) Fully printed table clamp
     - (FUTURE) PitClamp-as-hinges
-    - (FUTURE) Pneumatic SC40 Cylinder Pump (For Sucking Machine)
-  - (FUTURE) Relocatable OSSM Reference Board v2  
+    - (FUTURE) Pneumatic SC40 Cylinder Pump
+  - (FUTURE) Relocatable OSSM Reference Board v2
   - (FUTURE)(Optional) Capacitor located on motor for solder-less pre-v2.3 board compatability  
 
 
 ![](Images/Photos/PitClamp%20Mini%2057AIM30%204040%20Extrusion.jpg)  
 ![](Images/Photos/PitClamp%20Mini%2042AIM15%20Quick%20Clamp.jpg)  
+
+
+## Motor Head Support:
+  - Default OSSM (57AIM and iHSV)
+  - SpockAroundTheClock's Compact Motor Head (42AIM)
+
 
 ## Motor Rings:
 
@@ -73,21 +79,18 @@ Supports required for:
   - Upper Clamp: 100%  
   - Handle: 100%  
   - Dogbones: 100% 
-  - Lower Clamp 4040/3030 Extrusion Base: 100%  
-  - Lower Clamp Tabletop Base: 0%
-  - (Experimental) Side Mounted PitClamp Mini Hinge Pair: 80%
+  - 4040/3030 Extrusion Base: 100%
   - (Experimental) Lower Clamp Folding Base: 100%
-  - Tabletop Clamp: 100%
+  - Quick Clamp Tabletop Base: 100%
+  - 3d Printed Tabletop Base: 20%
+  - (Experimental) Side Mounted PitClamp Mini Hinge Pair: 80%
+  - Pneumatic SC40 Cylinder Pump Base: 20%
 
 **Relocatable Reference Board:**
   - Reference Board Case: 75%  
   - Reference Board 4040 Bracket: 90%
   - 42AIM Motor Plug Tidy w/ Capacitor: 75%
   - 57AIM Motor Plug Tidy w/o Capacitor: 0%
-
-**Motor Head Support:**
-  - Default OSSM (57AIM and iHSV)
-  - SpockAroundTheClock's Compact Motor Head (42AIM)
 
 **Rail Components:**
   - Screwcap Mini Tensioner: 100%
@@ -99,7 +102,7 @@ Supports required for:
   - Motor ring diameter reduced by 15%  
   - Overall filament required reduced by over 25%  
   - Clamp rotational grip strength increased
-  - Ring is now reversible  
+  - Motor ring is now reversible in the mount  
   - Clamp "helper" added to reduce adjustment noise/clunkyness  
   - Rear hinge pin is no longer a printed piece
   - Print clarity improved (and optional-default-none) for first and last layer "PitClamp Mini" & "armpitMFG" branding  
