@@ -17,7 +17,8 @@
   - 4 degree precision quick-adjustable rotation
   - Motor can be quickly removed from mount for storage or use in another base
   - Selection of bases for different use cases
-    - Extrusion Top Mount (Extrusion agnostic, but was designed for as small as 3030)
+    - Extrusion Top Mount
+      - (Extrusion agnostic, but was designed for as small as 3030)
     - Quick Clamp Ratchet + 3030 Extrusion Mount
       - (This mount is the reason behind the whole project)
     - (FUTURE) Fully printed table clamp
