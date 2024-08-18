@@ -12,14 +12,17 @@ Secure mounting and easy rotational adjustment of 42AIM, 57AIM, iHSV57, NEMA23 c
 
 
 ## Features  
-  - Motor can be completely removed from mount    
-  - Selection of bases for different use cases
-    - 4040 or 3030 Extrusion
-    - Tabletop compact clamp
-    - Experimental TBD
-  - Relocatable OSSM Reference Board v2  
-  - (Optional) Capacitor located on motor for solder-less pre-v2.3 board compatability  
+  - Motor can be completely removed from mount
   - 4 degree rotational granularity
+  - Selection of bases for different use cases
+    - 4040 or 3030 Extrusion Top Mount
+    - Quick Clamp Ratchet + 3030 Extrusion Mount (This mount is the reason behind the whole project)
+    - (FUTURE) Fully printed table clamp
+    - (FUTURE) PitClamp-as-hinges
+    - (FUTURE) Pneumatic SC40 Cylinder Pump (For Sucking Machine)
+  - (FUTURE) Relocatable OSSM Reference Board v2  
+  - (FUTURE)(Optional) Capacitor located on motor for solder-less pre-v2.3 board compatability  
+
     
 ## Roadmap  
 **Motor Rings:**
