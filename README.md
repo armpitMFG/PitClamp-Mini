@@ -2,7 +2,7 @@
 
 ### [Bill Of Materials](BOM.md)  
 
-### [Assembly guides](Assembly_Guides.md)
+### [Assembly guides](ASSEMBLY_GUIDES.md)
 
 ## Summary    
 Secure mounting and easy rotational adjustment of 42AIM, 57AIM, iHSV57, NEMA23 closed loop servo motor form factors.  
