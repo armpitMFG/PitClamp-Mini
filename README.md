@@ -26,6 +26,10 @@ Secure mounting and easy rotational adjustment of 42AIM, 57AIM, iHSV57, NEMA23 c
   - (FUTURE) Relocatable OSSM Reference Board v2  
   - (FUTURE)(Optional) Capacitor located on motor for solder-less pre-v2.3 board compatability  
 
+
+![](Images/Photos/PitClamp%20Mini%2057AIM30%204040%20Extrusion.jpg)  
+![](Images/Photos/PitClamp%20Mini%2042AIM15%20Quick%20Clamp.jpg)  
+
 ## Motor Rings:
 
 **57AIM - 57AIM15, 57AIM30**  
