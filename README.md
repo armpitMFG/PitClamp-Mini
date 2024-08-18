@@ -21,8 +21,8 @@
       - (Extrusion agnostic, but was designed for as small as 3030)
     - Quick Clamp Ratchet + 3030 Extrusion Mount
       - (This mount is the reason behind the whole project)
-    - (FUTURE) Fully printed table clamp
-    - (FUTURE) PitClamp-as-hinges
+    - (FUTURE) Fully printed Tabletop Clamp
+    - (FUTURE) PitClamp-As-Hinges
     - (FUTURE) Pneumatic SC40 Cylinder Pump
   - (FUTURE) Relocatable OSSM Reference Board v2
   - (FUTURE)(Optional) Capacitor located on motor for solder-less pre-v2.3 board compatability  
