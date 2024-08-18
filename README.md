@@ -5,7 +5,8 @@
 ### [Assembly guides](ASSEMBLY_GUIDES.md)
 
 ## Summary    
-Secure mounting and easy rotational adjustment of 42AIM, 57AIM, iHSV57, NEMA23 closed loop servo motor form factors.  
+3d printed modular quick-release adjustable and removable mount ecosystem for iHSV57, 57AIM, 42AIM, NEMA23 motors. Intended for use with OSSM. 4040/3030 extrusion, flat mount, or clamping base.
+
 
 ![](Images/Renders/View%203/PitClamp%20Mini%20-%2057AIM%20-%20Complete.png)
 ![](Images/Renders/View%201/PitClamp%20Mini%20-%2057AIM%20-%20Fully%20Open.png)
