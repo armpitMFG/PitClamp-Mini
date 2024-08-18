@@ -7,23 +7,38 @@
 ## Summary    
 Secure mounting and easy rotational adjustment of 42AIM, 57AIM, iHSV57, NEMA23 closed loop servo motor form factors.  
 
-![](BETA/Images/PitClamp_Mini_Profile_2.png)
-![](BETA/Images/PitClamp_Mini_Motor_Front_2.png)
+![](Images/Renders/View%203/PitClamp%20Mini%20-%2057AIM%20-%20Complete.png)
+![](Images/Renders/View%201/PitClamp%20Mini%20-%2057AIM%20-%20Fully%20Open.png)
+![](Images/Renders/View%201/PitClamp%20Mini%20-%2042AIM%20-%20Complete.png)
+
 
 
 ## Features  
-  - Motor can be completely removed from mount
-  - 4 degree rotational granularity
+  - 4 degree precision quick-adjustable rotation
+  - Motor can be quickly removed from mount for storage or use in another base
   - Selection of bases for different use cases
     - 4040 or 3030 Extrusion Top Mount
-    - Quick Clamp Ratchet + 3030 Extrusion Mount (This mount is the reason behind the whole project)
+    - Quick Clamp Ratchet + 3030 Extrusion Mount
+      - (This mount is the reason behind the whole project)
     - (FUTURE) Fully printed table clamp
     - (FUTURE) PitClamp-as-hinges
     - (FUTURE) Pneumatic SC40 Cylinder Pump (For Sucking Machine)
   - (FUTURE) Relocatable OSSM Reference Board v2  
   - (FUTURE)(Optional) Capacitor located on motor for solder-less pre-v2.3 board compatability  
 
-    
+## Motor Rings:
+
+**57AIM - 57AIM15, 57AIM30**  
+![](Images/Renders/View%204/PitClamp%20Mini%20-%2057AIM%20-%20Without%20Head.png)  
+![](Images/Renders/View%201/PitClamp%20Mini%20-%2057AIM%20-%20Complete.png)  
+**iHSV57 -  100w, 140w, 180w**  
+![](Images/Renders/View%204/PitClamp%20Mini%20-%20iHSV57%20-%20Without%20Head.png)  
+![](Images/Renders/View%201/PitClamp%20Mini%20-%20iHSV57%20-%20Complete.png)  
+**42AIM - 42AIM15, 42AIM30**
+![](Images/Renders/View%204/PitClamp%20Mini%20-%2042AIM%20-%20Without%20Head.png)  
+![](Images/Renders/View%201/PitClamp%20Mini%20-%2042AIM%20-%20Complete.png)  
+
+
 ## Roadmap  
 **Motor Rings:**
   - 42AIM Motor Ring: 100%  
@@ -33,21 +48,22 @@ Secure mounting and easy rotational adjustment of 42AIM, 57AIM, iHSV57, NEMA23 c
 
 **Clamping Components:**
   - Upper Clamp: 100%  
+  - Handle: 100%  
+  - Dogbones: 100% 
   - Lower Clamp 4040/3030 Extrusion Base: 100%  
   - Lower Clamp Tabletop Base: 0%
   - (Experimental) Lower Clamp Folding Base: 100%
-  - Tabletop Clamp Adapter: 100%
-  - Handle: 100%  
-  - Dogbones: 100% 
+  - Tabletop Clamp: 100%
 
 **Relocatable Reference Board:**
   - Reference Board Case: 75%  
   - Reference Board 4040 Bracket: 90%
-  - 42AIM/57AIM Motor Plug Tidy w/ Capacitor: 75%
-  - 42AIM/57AIM Motor Plug Tidy w/o Capacitor: 50%
+  - 42AIM Motor Plug Tidy w/ Capacitor: 75%
+  - 57AIM Motor Plug Tidy w/o Capacitor: 0%
 
-**Motor Head:**
-  - TBD, current plan is to use 3rd party head design
+**Motor Head Support:**
+  - Default OSSM (57AIM and iHSV)
+  - SpockAroundTheClock's Compact Motor Head (42AIM)
 
 **Rail Components:**
   - Screwcap Mini Tensioner: 100%
@@ -59,26 +75,7 @@ Secure mounting and easy rotational adjustment of 42AIM, 57AIM, iHSV57, NEMA23 c
   - Motor ring diameter reduced by 15%  
   - Overall filament required reduced by over 25%  
   - Clamp rotational grip strength increased
-  - (Experimental) Ring is now reversible  
-  - (Experimental) Clamp "helper" added to reduce adjustment noise/clunkyness  
-  - (Experimental) Rear hinge pin is no longer a printed piece
-  - Print clarity improved (and optional-default-none) for first and last layer "PitClamp" & "armpitMFG" branding  
-
-
-## Motor Rings:
-
-**57AIM - 57AIM15, 57AIM30**  
-![](BETA/Images/PitClamp_Mini_Ring_57AIM.png)  
-**iHSV57 -  100w, 140w, 180w**  
-![](BETA/Images/PitClamp_Mini_Ring_iHSV57.png)
-**42AIM - 42AIM15, 42AIM30**
-![](BETA/Images/PitClamp_Mini_Ring_42AIM.png)  
-
-
-<!--
-![](BETA/Images/PitClamp_Mini_Primary_Bare.png)
-![](BETA/Images/PitClamp_Mini_Primary_Built.png)
-![](BETA/Images/PitClamp_Mini_Overall_Board_Attached.png)
-![](BETA/Images/PitClamp_Mini_Overall_Board_External.png) 
--->
-
+  - Ring is now reversible  
+  - Clamp "helper" added to reduce adjustment noise/clunkyness  
+  - Rear hinge pin is no longer a printed piece
+  - Print clarity improved (and optional-default-none) for first and last layer "PitClamp Mini" & "armpitMFG" branding  
