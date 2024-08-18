@@ -11,8 +11,7 @@
 ![](Images/Renders/View%203/PitClamp%20Mini%20-%2057AIM%20-%20Complete.png)
 ![](Images/Renders/View%201/PitClamp%20Mini%20-%2057AIM%20-%20Fully%20Open.png)
 ![](Images/Renders/View%201/PitClamp%20Mini%20-%2042AIM%20-%20Complete.png)
- 
-
+ ![](Images/Renders/View%203/PitClamp%20Mini%20-%2057AIM%20-%20Clamp%20Only.png)
 
 ## Features  
   - 4 degree precision quick-adjustable rotation
