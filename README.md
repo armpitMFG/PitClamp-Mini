@@ -43,6 +43,25 @@ Secure mounting and easy rotational adjustment of 42AIM, 57AIM, iHSV57, NEMA23 c
 ![](Images/Renders/View%201/PitClamp%20Mini%20-%2042AIM%20-%20Complete.png)  
 
 
+## Printing:
+The entire project is intended for:  
+  - 0.4mm nozzle (Wider should not cause problems)
+  - 0.2mm layer height (Necessary for some built-in helper features)
+  - Standard strength (5 wall) profile
+  - 15% gyroid or crosshatch infill  
+
+All parts tested in PLA and PETG  
+
+Supports required for:
+  - PitClamp Mini - Common - Handle
+  - PitClamp Mini - Base - Standard - Lower
+  - PitClamp Mini - Common - Upper
+  - PitClamp Mini - Ring - 57AIM
+  - PitClamp Mini - Ring - iHSV57
+
+![](Images/Print/PitClamp%20Mini.png)  
+![](Images/Print/PitClamp%20Mini%20-%20Rings.png)  
+
 ## Roadmap  
 **Motor Rings:**
   - 42AIM Motor Ring: 100%  
@@ -56,6 +75,7 @@ Secure mounting and easy rotational adjustment of 42AIM, 57AIM, iHSV57, NEMA23 c
   - Dogbones: 100% 
   - Lower Clamp 4040/3030 Extrusion Base: 100%  
   - Lower Clamp Tabletop Base: 0%
+  - (Experimental) Side Mounted PitClamp Mini Hinge Pair: 80%
   - (Experimental) Lower Clamp Folding Base: 100%
   - Tabletop Clamp: 100%
 
