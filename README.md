@@ -71,6 +71,7 @@ Supports required for:
   - Dogbones: 100% 
   - Lower Clamp 4040/3030 Extrusion Base: 100%  
   - Lower Clamp Tabletop Base: 0%
+  - (Experimental) Side Mounted PitClamp Mini Hinge Pair: 80%
   - (Experimental) Lower Clamp Folding Base: 100%
   - Tabletop Clamp: 100%
 
