@@ -20,9 +20,10 @@
       4x M3x16 Socket Cap Head Bolt
 
 ### iHSV57 Motor Ring
-      1x M5x50 Socket Cap Head Bolt
-      1x M5 Nut
-      4x M3x16 Socket Cap Head Bolt
+    (These bolts can be longer, but the specified length will be flush when installed)
+      2x M5x40 Socket Cap Head Bolt
+      2x M5x45 Socket Cap Head Bolt
+      4x M5 Nuts
 
 ### (FUTURE) Extrusion Ring
     For attaching to 3030 extrusion:
