@@ -79,7 +79,7 @@ Supports required for:
   - 42AIM Motor Ring: 100%  
   - 57AIM Motor Ring: 100%
   - iHSV57 Motor Ring: 100%
-  - (Experimental) Extrusion Adapter Ring: 95%
+  - Extrusion Adapter Ring: 100%
 
 **Clamping Components:**
   - Upper Clamp: 100%  
