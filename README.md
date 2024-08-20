@@ -111,3 +111,10 @@ Supports required for:
   - Clamp "helper" added to reduce adjustment noise/clunkyness  
   - Rear hinge pin is no longer a printed piece
   - Print clarity improved (and optional-default-none) for first and last layer "PitClamp Mini" & "armpitMFG" branding  
+
+
+## Legacy PitClamp Bases
+These bases are being reworked for the PitClamp Mini form factor
+
+![](Images/Renders/Base%20Concepts/SC40%20Pneumatic%20Air%20Cylinder%20Base.png)  
+![](Images/Renders/Base%20Concepts/Tabletop%20Fully%203d%20Printed%20Base.png)  
