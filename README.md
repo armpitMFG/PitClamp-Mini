@@ -23,6 +23,8 @@ Stress tested to 50 ft-lb without grip being compromised.
       - (Extrusion agnostic, but was designed for as small as 3030)
     - Quick Clamp Ratchet + 3030 Extrusion Mount
       - (This mount is the reason behind the whole project)
+      - Double Hinge Folding Base
+        - (Folds flat for easier frame storage, e.g. sliding under bed)
     - (FUTURE) Fully printed Tabletop Clamp
     - (FUTURE) PitClamp-As-Hinges
     - (FUTURE) Pneumatic SC40 Cylinder Pump
