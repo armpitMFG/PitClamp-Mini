@@ -34,6 +34,7 @@ Check out the [Preconfigured 3mf Files](Preconfigured%203mf%20Files/) directory 
 
     Connects to 3030/4040 extrusion to then use in a PitClamp mini.  
 
-    This allows you to make a quick-disconnect motor arm that attaches to a base of your choice, opening up modular stand possibilities.  
+    This allows you to make a quick-disconnect motor arm that attaches to a base of your choice.
+    Opens up modular stand possibilities.  
     
     Intended to be used with Quick Clamp Ratchet base, but be creative!
