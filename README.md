@@ -74,6 +74,10 @@ Supports required for:
 ![](Images/Print/PitClamp%20Mini.png)  
 ![](Images/Print/PitClamp%20Mini%20-%20Rings.png)  
 
+Optional accent color for logo.  
+Requires AMS, just paint bucket the flush lettering faces:
+![](Images/Print/PitClamp%20Mini%20Branding.png)  
+
 ## Roadmap  
 **Motor Rings:**
   - 42AIM Motor Ring: 100%  
