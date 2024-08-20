@@ -33,6 +33,7 @@ Stress tested to 50 ft-lb without grip being compromised.
 
 
 ![](Images/Photos/PitClamp%20Mini%2057AIM30%204040%20Extrusion.jpg)  
+![](Images/Photos/PitClamp%20Mini%2057AIM30%204040%20Extrusion%20Front.jpg)  
 ![](Images/Photos/PitClamp%20Mini%2042AIM15%20Quick%20Clamp%20Down.jpg)  
 ![](Images/Photos/PitClamp%20Mini%2042AIM15%20Quick%20Clamp%20Modular%20Hinge.jpg)
 
