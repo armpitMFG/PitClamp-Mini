@@ -24,7 +24,13 @@ For best results, print using "Variable layer height" for Screwcap_Mini_Tensione
 
 ![Print view](Images/Screwcap_Mini_Tensioner_RC1_Print.png)
 
+##   Screwcap Mini Tensioner Installation
+
+[![Screwcap Mini Tensioner Installation](https://i3.ytimg.com/vi/DaN17W8FflY/hqdefault.jpg)  
+https://www.youtube.com/watch?v=DaN17W8FflY](https://www.youtube.com/watch?v=DaN17W8FflY)
+ 
 **Assembly**  
+
 Drop nut into the Base. Screw in the bolt lightly from the other side until the nut is secured into the base of the hole.  
 Loosen the bolt unil there is small gap visible between it and the Base  
 Slide belt through Base opening, slide base onto rail  
@@ -32,6 +38,7 @@ Pull tension on the belt while sliding the Ring into place
 While keeping tension on the belt, screw on the cap.
 
 You should feel the cap hit the head of the screw, and as you tighten from there it will move the tensioner away from the rail while also tightening it's grip on the belt. Unscrew and adjust the bolt position and repeat the process if you need to vary the tension.
+
 
 
 **Attributions**  
