@@ -33,9 +33,10 @@ Stress tested to 50 ft-lb without grip being compromised. (PLA 5 walls 15% cross
 
 
 ![](Images/Photos/PitClamp%20Mini%2057AIM30%204040%20Extrusion.jpg)  
-![](Images/Photos/PitClamp%20Mini%2057AIM30%204040%20Extrusion%20Front.jpg)  
-![](Images/Photos/PitClamp%20Mini%2042AIM15%20Quick%20Clamp%20Down.jpg)  
-![](Images/Photos/PitClamp%20Mini%2042AIM15%20Quick%20Clamp%20Modular%20Hinge.jpg)
+![](Images/Photos/PitClamp%20Mini%2057AIM30%204040%20Extrusion%20Front.jpg) 
+![](Images/Photos/PitClamp%20Mini%20Double%20Hinge%20Under%20Bed%20Storage.jpg)
+![](Images/Photos/PitClamp%20Mini%20Desk%20Clamp%20Basic.jpg)  
+![](Images/Photos/PitClamp%20Mini%20Minimal%20Clamp%20Components.jpg)  
 ![](Images/Photos/PitClamp%20Mini%2057AIM30%203030%20Extrusion%20Modular.jpg)
 ![](Images/Photos/PitClamp%20Mini%2057AIM30%203030%20Extrusion%20Modular%20Packed.jpg)
 
