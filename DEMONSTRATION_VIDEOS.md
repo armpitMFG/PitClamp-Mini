@@ -1,4 +1,4 @@
-##   Modular Mount Demonstration
+##   Modular Mount Demonstration  
 [![PitClamp Mini - Modular Mount Demonstration](https://i3.ytimg.com/vi/qSyPyNlI1cM/maxresdefault.jpg)  
 https://www.youtube.com/watch?v=qSyPyNlI1cM](https://www.youtube.com/watch?v=qSyPyNlI1cM)  
 
