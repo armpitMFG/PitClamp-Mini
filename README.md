@@ -7,7 +7,7 @@
 ## Summary    
 3d printed modular quick-release adjustable and removable mount ecosystem for iHSV57, 57AIM, 42AIM, NEMA23 motors. Intended for use with [OSSM](https://www.researchanddesire.com/open-source-sex-machine). 4040/3030 extrusion, flat mount, or clamping base.  
 
-Stress tested to 50 ft-lb without grip being compromised.
+Stress tested to 50 ft-lb without grip being compromised. (PLA 5 walls 15% crosshatch infill)
 
 
 ![](Images/Renders/View%203/PitClamp%20Mini%20-%2057AIM%20-%20Complete.png)
