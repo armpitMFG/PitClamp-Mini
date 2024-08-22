@@ -65,7 +65,8 @@ The entire project is intended for:
   - 0.4mm nozzle (Wider should not cause problems)
   - 0.2mm layer height (Necessary for some built-in helper features)
   - Standard strength (5 wall) profile
-  - 15% gyroid or crosshatch infill  
+  - 15% gyroid or crosshatch infill
+    - Higher infill optional
 
 All parts tested in PLA and PETG  
 
