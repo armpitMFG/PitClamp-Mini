@@ -4,10 +4,12 @@
 
 ### [Assembly Guide Videos](ASSEMBLY_GUIDES.md)
 
+### [Demonstration Videos (SFW)](DEMONSTRATION_VIDEOS.md)
+
 ## Summary    
 3d printed modular quick-release adjustable and removable mount ecosystem for iHSV57, 57AIM, 42AIM, NEMA23 motors. Intended for use with [OSSM](https://www.researchanddesire.com/open-source-sex-machine). 4040/3030 extrusion, flat mount, or clamping base.  
 
-Stress tested to 50 ft-lb without grip being compromised.
+Stress tested to 50 ft-lb without grip being compromised. (PLA 5 walls 15% crosshatch infill)
 
 
 ![](Images/Renders/View%203/PitClamp%20Mini%20-%2057AIM%20-%20Complete.png)
@@ -33,9 +35,10 @@ Stress tested to 50 ft-lb without grip being compromised.
 
 
 ![](Images/Photos/PitClamp%20Mini%2057AIM30%204040%20Extrusion.jpg)  
-![](Images/Photos/PitClamp%20Mini%2057AIM30%204040%20Extrusion%20Front.jpg)  
-![](Images/Photos/PitClamp%20Mini%2042AIM15%20Quick%20Clamp%20Down.jpg)  
-![](Images/Photos/PitClamp%20Mini%2042AIM15%20Quick%20Clamp%20Modular%20Hinge.jpg)
+![](Images/Photos/PitClamp%20Mini%2057AIM30%204040%20Extrusion%20Front.jpg) 
+![](Images/Photos/PitClamp%20Mini%20Double%20Hinge%20Under%20Bed%20Storage.jpg)
+![](Images/Photos/PitClamp%20Mini%20Desk%20Clamp%20Basic.jpg)  
+![](Images/Photos/PitClamp%20Mini%20Minimal%20Clamp%20Components.jpg)  
 ![](Images/Photos/PitClamp%20Mini%2057AIM30%203030%20Extrusion%20Modular.jpg)
 ![](Images/Photos/PitClamp%20Mini%2057AIM30%203030%20Extrusion%20Modular%20Packed.jpg)
 
@@ -62,7 +65,8 @@ The entire project is intended for:
   - 0.4mm nozzle (Wider should not cause problems)
   - 0.2mm layer height (Necessary for some built-in helper features)
   - Standard strength (5 wall) profile
-  - 15% gyroid or crosshatch infill  
+  - 15% gyroid or crosshatch infill
+    - Higher infill optional
 
 All parts tested in PLA and PETG  
 
