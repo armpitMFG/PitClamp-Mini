@@ -96,7 +96,7 @@ Requires AMS, just paint bucket the flush lettering faces:
   - Handle: 100%  
   - Dogbones: 100% 
   - 4040/3030 Extrusion Base: 100%
-  - (Experimental) Lower Clamp Folding Base: 100%
+  - Double Hinge Folding Base: 100%
   - Quick Clamp Tabletop Base: 100%
   - 3d Printed Tabletop Base: 20%
   - (Experimental) Side Mounted PitClamp Mini Hinge Pair: 80%
