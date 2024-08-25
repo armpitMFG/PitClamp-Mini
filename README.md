@@ -12,10 +12,11 @@
 Stress tested to 50 ft-lb without grip being compromised. (PLA 5 walls 15% crosshatch infill)
 
 
-![](Images/Renders/View%203/PitClamp%20Mini%20-%2057AIM%20-%20Complete.png)
+![](Images/Renders/View%203/PitClamp%20Mini%20-%2057AIM%20-%20Clamp%20Only.png)
+<!-- ![](Images/Renders/View%203/PitClamp%20Mini%20-%2057AIM%20-%20Complete.png) -->
 ![](Images/Renders/View%201/PitClamp%20Mini%20-%2057AIM%20-%20Fully%20Open.png)
-![](Images/Renders/View%201/PitClamp%20Mini%20-%2042AIM%20-%20Complete.png)
- ![](Images/Renders/View%203/PitClamp%20Mini%20-%2057AIM%20-%20Clamp%20Only.png)
+<!-- ![](Images/Renders/View%201/PitClamp%20Mini%20-%2042AIM%20-%20Complete.png) -->
+
 
 ## Features  
   - 4 degree precision quick-adjustable rotation
@@ -31,15 +32,15 @@ Stress tested to 50 ft-lb without grip being compromised. (PLA 5 walls 15% cross
     - (FUTURE) PitClamp-As-Hinges
     - (FUTURE) Pneumatic SC40 Cylinder Pump
   - (FUTURE) Relocatable OSSM Reference Board v2
-  - (FUTURE)(Optional) Capacitor located on motor for solder-less pre-v2.3 board compatability  
+  - (FUTURE) (Optional) Capacitor located on motor for solder-less pre-v2.3 board compatability  
 
 
-![](Images/Photos/PitClamp%20Mini%2057AIM30%204040%20Extrusion.jpg)  
-![](Images/Photos/PitClamp%20Mini%2057AIM30%204040%20Extrusion%20Front.jpg) 
+<!-- ![](Images/Photos/PitClamp%20Mini%2057AIM30%204040%20Extrusion.jpg)  
+![](Images/Photos/PitClamp%20Mini%2057AIM30%204040%20Extrusion%20Front.jpg)  -->
 ![](Images/Photos/PitClamp%20Mini%20Double%20Hinge%20Under%20Bed%20Storage.jpg)
 ![](Images/Photos/PitClamp%20Mini%20Desk%20Clamp%20Basic.jpg)  
 ![](Images/Photos/PitClamp%20Mini%20Minimal%20Clamp%20Components.jpg)  
-![](Images/Photos/PitClamp%20Mini%2057AIM30%203030%20Extrusion%20Modular.jpg)
+<!-- ![](Images/Photos/PitClamp%20Mini%2057AIM30%203030%20Extrusion%20Modular.jpg) -->
 ![](Images/Photos/PitClamp%20Mini%2057AIM30%203030%20Extrusion%20Modular%20Packed.jpg)
 
 ## Motor Head Support:
@@ -51,13 +52,13 @@ Stress tested to 50 ft-lb without grip being compromised. (PLA 5 walls 15% cross
 
 **57AIM - 57AIM15, 57AIM30**  
 ![](Images/Renders/View%204/PitClamp%20Mini%20-%2057AIM%20-%20Without%20Head.png)  
-![](Images/Renders/View%201/PitClamp%20Mini%20-%2057AIM%20-%20Complete.png)  
+<!-- ![](Images/Renders/View%201/PitClamp%20Mini%20-%2057AIM%20-%20Complete.png)   -->
 **iHSV57 -  100w, 140w, 180w**  
 ![](Images/Renders/View%204/PitClamp%20Mini%20-%20iHSV57%20-%20Without%20Head.png)  
-![](Images/Renders/View%201/PitClamp%20Mini%20-%20iHSV57%20-%20Complete.png)  
+<!-- ![](Images/Renders/View%201/PitClamp%20Mini%20-%20iHSV57%20-%20Complete.png)   -->
 **42AIM - 42AIM15, 42AIM30**
 ![](Images/Renders/View%204/PitClamp%20Mini%20-%2042AIM%20-%20Without%20Head.png)  
-![](Images/Renders/View%201/PitClamp%20Mini%20-%2042AIM%20-%20Complete.png)  
+<!-- ![](Images/Renders/View%201/PitClamp%20Mini%20-%2042AIM%20-%20Complete.png)   -->
 
 
 ## Printing:
