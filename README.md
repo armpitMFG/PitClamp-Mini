@@ -26,6 +26,8 @@ Stress tested to 50 ft-lb without grip being compromised. (PLA 5 walls 15% cross
       - (Extrusion agnostic, but was designed for as small as 3030)
     - Quick Clamp Ratchet + 3030 Extrusion Mount
       - (This mount is the reason behind the whole project)
+      - POWERTEC 71408 is the clamp pictured
+      - "Guide rail MFT ratchet clamp" search term to find similar prodcuts
     - Double Hinge Folding Mount
        - (Folds flat for easier frame storage, e.g. sliding under bed)
     - (FUTURE) Fully printed Tabletop Clamp
@@ -97,7 +99,7 @@ Requires AMS, just paint bucket the flush lettering faces:
   - Handle: 100%  
   - Dogbones: 100% 
   - 4040/3030 Extrusion Base: 100%
-  - (Experimental) Lower Clamp Folding Base: 100%
+  - Double Hinge Folding Base: 100%
   - Quick Clamp Tabletop Base: 100%
   - 3d Printed Tabletop Base: 20%
   - (Experimental) Side Mounted PitClamp Mini Hinge Pair: 80%
