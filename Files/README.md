@@ -15,8 +15,8 @@ Check out the [Preconfigured 3mf Files](Preconfigured%203mf%20Files/) directory 
     - Only use this offset if you _really_ need things to be compact on 3030 setups. Can have clearance issues if your setup isn't absolutely perfect.
 
 
-### 47AIM
-    For 47AIM motors
+### 42AIM
+    For 42AIM motors
 
 ### 57AIM
     For 57AIM "Gold" motors
