@@ -30,7 +30,7 @@ Check out the [Preconfigured 3mf Files](Preconfigured%203mf%20Files/) directory 
     
     Clasp each half around the motor.
 
-### Extrusion Rings
+### Extrusion Rings (Experimental)
 
     Connects to 3030/4040 extrusion to then use in a PitClamp mini.  
 
