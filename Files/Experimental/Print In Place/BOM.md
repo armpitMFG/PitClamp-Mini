@@ -7,5 +7,5 @@
 
 ## Bases:
     Attaching Base to Extrusion:
-      2x M6x20 (M6x18 for 3030 Extrusion) Socket Cap Head Bolt
+      2x M6x20 (M6x15 for 3030 Extrusion) Socket Cap Head Bolt
       2x M6 T-Nut
