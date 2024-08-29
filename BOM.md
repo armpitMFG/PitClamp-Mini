@@ -45,7 +45,7 @@
       1x M6x20 Socket Cap Head Bolt
       1x M6 Nut
     Attaching Base to Extrusion:
-      2x M6x20 (M6x14 for 3030 Extrusion) Socket Cap Head Bolt
+      2x M6x20 (M6x18 for 3030 Extrusion) Socket Cap Head Bolt
       2x M6 T-Nut
 
 ###  Double Hinge Base
@@ -56,7 +56,7 @@
       1x M6x20 Socket Cap Head Bolt
       1x M6 Nut
     For attaching Base to Extrusion:
-      2x M6x20 (M6x14 for 3030 Extrusion) Socket Cap Head Bolt
+      2x M6x20 (M6x18 for 3030 Extrusion) Socket Cap Head Bolt
       2x M6 T-Nut
 
 ### (FUTURE) Side Mount Base
