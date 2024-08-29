@@ -5,13 +5,8 @@
 ### 57AIM Motor Ring + Default OSSM Motor Head 
     (These bolts can be longer, but the specified length will be flush when installed)
         Without motor cable tidy cover:
-          2x M5x40 Socket Cap Head Bolt (Possibly #10x1.75" alternative, TBD)
-          2x M5x45 Socket Cap Head Bolt (Possibly #10x2" alternative, TBD)
-          4x M5 Nuts
-        With (FUTURE) motor cable tidy cover:
-          1x M5x40 Socket Cap Head Bolt
+          2x M5x40 Socket Cap Head Bolt
           2x M5x45 Socket Cap Head Bolt
-          1x M5x50 Socket Cap Head Bolt
           4x M5 Nuts
 
 ### 42AIM Motor Ring + SpockAroundTheClock's Compact Motor Head
@@ -25,7 +20,7 @@
       2x M5x45 Socket Cap Head Bolt
       4x M5 Nuts
 
-### (FUTURE) Extrusion Ring
+### (EXPERIMENTAL) Extrusion Ring
     For attaching to 3030 extrusion:
       2x M6x20 Socket Cap Head Bolt //TODO: Confirm that M6x25 is too long
       2x M6 T-Nut
@@ -45,7 +40,7 @@
       1x M6x20 Socket Cap Head Bolt
       1x M6 Nut
     Attaching Base to Extrusion:
-      2x M6x20 (M6x18 for 3030 Extrusion) Socket Cap Head Bolt
+      2x M6x20 (M6x15 for 3030 Extrusion) Socket Cap Head Bolt
       2x M6 T-Nut
 
 ###  Double Hinge Base
@@ -56,10 +51,10 @@
       1x M6x20 Socket Cap Head Bolt
       1x M6 Nut
     For attaching Base to Extrusion:
-      2x M6x20 (M6x18 for 3030 Extrusion) Socket Cap Head Bolt
+      2x M6x20 (M6x15 for 3030 Extrusion) Socket Cap Head Bolt
       2x M6 T-Nut
 
-### (FUTURE) Side Mount Base
+### (FUTURE, maybe) Side Mount Base
     For attaching to 3030 extrusion:
       2x M6x20 Socket Cap Head Bolt //TODO: Confirm that M6x25 is too long
       2x M6 T-Nut
