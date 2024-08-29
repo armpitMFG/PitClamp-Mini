@@ -7,7 +7,7 @@
 ### [Demonstration Videos (SFW)](DEMONSTRATION_VIDEOS.md)
 
 ### Updates:
-  - 08.28.2024 - Added [Print-In-Place PitClamp Mini](/Files/Experimental/Print%20In%20Place/) to [Experimental Parts](/Files/Experimental/) folder
+  - 08.28.2024 - Added [Print-In-Place PitClamp Mini](/Files/Experimental/Print%20In%20Place/) to [Experimental Parts](/Files/Experimental/) folder (Reduced hardware)
   - 08.28.2024 - Revised Extrusion Ring from Normal to Experimental status
 
 ## Summary    
