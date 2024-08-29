@@ -17,6 +17,7 @@ Stress tested to 50 ft-lb without grip being compromised. (PLA 5 walls 15% cross
 
 ![](Images/Renders/Primary/Parts%20Only.png)
 ![](Images/Renders/Primary/Closed.png)
+![](Images/Renders/Primary/Loosened.png)
 ![](Images/Renders/Primary/Removed.png)
 <!-- ![](Images/Renders/View%203/PitClamp%20Mini%20-%2057AIM%20-%20Clamp%20Only.png) -->
 <!-- ![](Images/Renders/View%203/PitClamp%20Mini%20-%2057AIM%20-%20Complete.png) -->
