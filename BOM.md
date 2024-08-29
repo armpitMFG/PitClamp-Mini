@@ -33,7 +33,7 @@
       2x M6x25 Socket Cap Head Bolt
       2x M6 T-Nut
 
-## Handle Mechanism:
+## Latching Mechanism:
     2x M4x25 Socket Cap Head Bolt
     1x M4x12 or M4x10 Socket Cap Head Bolt
     3x M4 Nut
