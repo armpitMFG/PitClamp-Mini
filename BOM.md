@@ -4,10 +4,9 @@
 
 ### 57AIM Motor Ring + Default OSSM Motor Head 
     (These bolts can be longer, but the specified length will be flush when installed)
-        Without motor cable tidy cover:
-          2x M5x40 Socket Cap Head Bolt
-          2x M5x45 Socket Cap Head Bolt
-          4x M5 Nuts
+      2x M5x40 Socket Cap Head Bolt
+      2x M5x45 Socket Cap Head Bolt
+      4x M5 Nuts
 
 ### 42AIM Motor Ring + SpockAroundTheClock's Compact Motor Head
       1x M5x50 Socket Cap Head Bolt
