@@ -7,8 +7,11 @@
 ### [Demonstration Videos (SFW)](DEMONSTRATION_VIDEOS.md)
 
 ### Updates:
-  - 08.28.2024 - Added [Print-In-Place PitClamp Mini](/Files/Experimental/Print%20In%20Place/) to [Experimental Parts](/Files/Experimental/) folder (Reduced hardware)
-  - 08.28.2024 - Revised Extrusion Ring from Normal to Experimental status
+  - 09.03.2024 - Added **Ring Template** STEP files to [Ring Template](/Files/Ring%20Template/) folder
+  - 09.03.2024 - Added **Centered 42AIM Ring** to [Non-Standard Parts](/Files/Non-Standard%20Parts/) folder _(Compatibility with just_b's motor head)_
+  - 08.29.2024 - Added **57AIM Cable Passthru** Ring to [Non-Standard Parts](/Files/Non-Standard%20Parts/) folder _(Experimenting with motor head mounted Reference Board)_
+  - 08.28.2024 - Added **[Print-In-Place PitClamp Mini](/Files/Experimental/Print%20In%20Place/)** to [Experimental Parts](/Files/Experimental/) folder _(Reduced hardware)_
+  - 08.28.2024 - Revised **Extrusion Ring** from Normal to Experimental status _(Needs a stronger design for re-release)_
 
 ## Summary    
 3d printed modular quick-release adjustable and removable mount ecosystem for iHSV57, 57AIM, 42AIM, NEMA23 motors. Intended for use with [OSSM](https://www.researchanddesire.com/open-source-sex-machine). 4040/3030 extrusion, flat mount, or clamping base.  
