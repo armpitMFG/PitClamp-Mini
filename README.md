@@ -7,6 +7,7 @@
 ### [Demonstration Videos (SFW)](DEMONSTRATION_VIDEOS.md)
 
 ### Updates:
+  - 09.04.2024 - Added **Standard Base w/ Helper Brim** STEP file to [Files](/Files/) folder _(Helps prevent latch corner from lifting during print)_
   - 09.03.2024 - Added **Ring Template** STEP files to [Ring Template](/Files/Ring%20Template/) folder
   - 09.03.2024 - Added **Centered 42AIM Ring** to [Non-Standard Parts](/Files/Non-Standard%20Parts/) folder _(Compatibility with just_b's motor head)_
   - 08.29.2024 - Added **57AIM Cable Passthru** Ring to [Non-Standard Parts](/Files/Non-Standard%20Parts/) folder _(Experimenting with motor head mounted Reference Board)_
