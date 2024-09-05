@@ -1,4 +1,7 @@
 # PitClamp Mini
+![](Images/Renders/Primary/Parts%20Only.png)
+## Summary    
+3d printed modular quick-release adjustable and removable mount ecosystem for iHSV57, 57AIM, 42AIM, NEMA23 motors. Intended for use with [OSSM](https://www.researchanddesire.com/open-source-sex-machine). 4040/3030 extrusion, flat mount, or clamping base.  
 
 ### [Bill Of Materials](BOM.md)  
 
@@ -7,6 +10,7 @@
 ### [Demonstration Videos (SFW)](DEMONSTRATION_VIDEOS.md)
 
 ### Updates:
+  - 09.04.2024 - Added **OSSM Logo Template** file to [OSSM Logo Template](/Files/OSSM%20Logo%20Template/) folder
   - 09.04.2024 - Added **Standard Base w/ Helper Brim** STEP file to [Files](/Files/) folder _(Helps prevent latch corner from lifting during print)_
   - 09.03.2024 - Added **Ring Template** STEP files to [Ring Template](/Files/Ring%20Template/) folder
   - 09.03.2024 - Added **Centered 42AIM Ring** to [Non-Standard Parts](/Files/Non-Standard%20Parts/) folder _(Compatibility with just_b's motor head)_
@@ -14,12 +18,9 @@
   - 08.28.2024 - Added **[Print-In-Place PitClamp Mini](/Files/Experimental/Print%20In%20Place/)** to [Experimental Parts](/Files/Experimental/) folder _(Reduced hardware)_
   - 08.28.2024 - Revised **Extrusion Ring** from Normal to Experimental status _(Needs a stronger design for re-release)_
 
-## Summary    
-3d printed modular quick-release adjustable and removable mount ecosystem for iHSV57, 57AIM, 42AIM, NEMA23 motors. Intended for use with [OSSM](https://www.researchanddesire.com/open-source-sex-machine). 4040/3030 extrusion, flat mount, or clamping base.  
 
 Stress tested to 50 ft-lb without grip being compromised. (PLA 5 walls 15% crosshatch infill)
 
-![](Images/Renders/Primary/Parts%20Only.png)
 ![](Images/Renders/Primary/Closed.png)
 ![](Images/Renders/Primary/Loosened.png)
 ![](Images/Renders/Primary/Removed.png)
