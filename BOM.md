@@ -4,20 +4,18 @@
 
 ### 57AIM Motor Ring + Default OSSM Motor Head 
     (These bolts can be longer, but the specified length will be flush when installed)
-      2x M5x40 Socket Cap Head Bolt
-      2x M5x45 Socket Cap Head Bolt
+      4x M5x40 Socket Cap Head Bolt
       4x M5 Nuts
 
+### iHSV57 Motor Ring + Default OSSM Motor Head 
+    (These bolts can be longer, but the specified length will be flush when installed)
+      4x M5x40 Socket Cap Head Bolt
+      4x M5 Nuts
+      
 ### 42AIM Motor Ring + SpockAroundTheClock's Compact Motor Head
       1x M5x50 Socket Cap Head Bolt
       1x M5 Nut
       4x M3x16 Socket Cap Head Bolt
-
-### iHSV57 Motor Ring
-    (These bolts can be longer, but the specified length will be flush when installed)
-      2x M5x40 Socket Cap Head Bolt
-      2x M5x45 Socket Cap Head Bolt
-      4x M5 Nuts
 
 ### (EXPERIMENTAL) Extrusion Ring
     For attaching to 3030 extrusion:
