@@ -36,8 +36,6 @@ Requires AMS, just paint bucket the flush lettering faces:
 
 ### 42AIM
     For 42AIM motors
-      Centered motor mounting for just_b's Universal Head
-      Off-center motor mounting for SpockAroundTheClock's Compact Head
 
 ### 57AIM
     For 57AIM "Gold" motors
@@ -50,12 +48,3 @@ Requires AMS, just paint bucket the flush lettering faces:
     Ring snaps into two pieces after removing from printer.  
     
     Clasp each half around the motor.
-
-### Extrusion Rings (Experimental)
-
-    Connects to 3030/4040 extrusion to then use in a PitClamp mini.  
-
-    This allows you to make a quick-disconnect motor arm that attaches to a base of your choice.
-    Opens up modular stand possibilities.  
-    
-    Intended to be used with Quick Clamp Ratchet base, but be creative!

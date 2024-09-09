@@ -2,28 +2,27 @@
 
 ## Motor Rings:
 
-### 57AIM Motor Ring + Default OSSM Motor Head 
-    (These bolts can be longer, but the specified length will be flush when installed)
+### 57AIM 
+Default Motor Head, use Default  
+Alternate Head, use Alternate
+
+    4x M5x40 Socket Cap Head Bolt
+    4x M5 Nuts
+
+### iHSV57
+Default Motor Head, use Default  
+Alternate Head, use Alternate
+
       4x M5x40 Socket Cap Head Bolt
       4x M5 Nuts
 
-### iHSV57 Motor Ring + Default OSSM Motor Head 
-    (These bolts can be longer, but the specified length will be flush when installed)
-      4x M5x40 Socket Cap Head Bolt
-      4x M5 Nuts
-      
-### 42AIM Motor Ring + SpockAroundTheClock's Compact Motor Head
+### 42AIM
+SpockAroundTheClock's Compact Motor Head, use SATC  
+just_b's Universal Motor Head, use Centered  
+
       1x M5x50 Socket Cap Head Bolt
       1x M5 Nut
       4x M3x16 Socket Cap Head Bolt
-
-### (EXPERIMENTAL) Extrusion Ring
-    For attaching to 3030 extrusion:
-      2x M6x20 Socket Cap Head Bolt //TODO: Confirm that M6x25 is too long
-      2x M6 T-Nut
-    For attaching to 4040 extrusion:
-      2x M6x25 Socket Cap Head Bolt
-      2x M6 T-Nut
 
 ## Latching Mechanism:
     2x M4x25 Socket Cap Head Bolt
@@ -51,10 +50,10 @@
       2x M6x20 (M6x15 for 3030 Extrusion) Socket Cap Head Bolt
       2x M6 T-Nut
 
-### (FUTURE, maybe) Side Mount Base
+<!-- ### (FUTURE, maybe) Side Mount Base
     For attaching to 3030 extrusion:
       2x M6x20 Socket Cap Head Bolt //TODO: Confirm that M6x25 is too long
       2x M6 T-Nut
     For attaching to 4040 extrusion:
       2x M6x25 Socket Cap Head Bolt
-      2x M6 T-Nut
+      2x M6 T-Nut -->
