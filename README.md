@@ -55,8 +55,9 @@ Stress tested to 50 ft-lb without grip being compromised. (PLA 5 walls 15% cross
 ![](Images/Photos/PitClamp%20Mini%2057AIM30%203030%20Extrusion%20Modular%20Packed.jpg)
 
 ## Motor Head Support:
-  - Default OSSM (57AIM and iHSV)
+  - Default OSSM (57AIM and iHSV57 NEMA23)
   - SpockAroundTheClock's Compact Motor Head (42AIM)
+  - just_b's Universal Motor Head (57AIM, 42AIM, and iHSV57 NEMA23)
 
 
 ## Motor Rings:
