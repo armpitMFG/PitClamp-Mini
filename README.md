@@ -2,11 +2,19 @@
 ![](Images/Renders/Primary/Parts%20Only.png)
 ## Summary    
 3d printed modular quick-release adjustable and removable mount ecosystem for iHSV57, 57AIM, 42AIM, NEMA23 motors. Intended for use with [OSSM](https://www.researchanddesire.com/open-source-sex-machine). 4040/3030 extrusion, flat mount, or clamping base.  
-Stress tested to 50 ft-lb without grip being compromised. (PLA 5 walls 15% crosshatch infill)
+
+Stress tested to 50 ft-lb without grip being compromised. (PLA 5 walls 15% crosshatch infill)  
+
+
+### Motor Head Support
+  - Default OSSM (57AIM and iHSV57 NEMA23)
+  - SpockAroundTheClock's Compact Motor Head (42AIM)
+  - just_b's Universal Motor Head (57AIM, 42AIM, and iHSV57 NEMA23)  
+
 
 ### [Purchase A Kit From Research And Desire](https://www.researchanddesire.com/products/pitclamp-mini)
 
-### [Print Files](/Files/)  
+### [Print Files And Instructions](/Files/)  
 
 ### [Bill Of Materials](BOM.md)  
 
@@ -15,7 +23,6 @@ Stress tested to 50 ft-lb without grip being compromised. (PLA 5 walls 15% cross
 ### [Demonstration Videos (SFW)](DEMONSTRATION_VIDEOS.md)
 
 ### [Updates](UPDATES.md) (Last updated - 09.08.2024)
-
 
 
 ![](Images/Renders/Primary/Closed.png)
@@ -46,21 +53,7 @@ Stress tested to 50 ft-lb without grip being compromised. (PLA 5 walls 15% cross
   - (FUTURE) (Optional) Capacitor located on motor for solder-less pre-v2.3 board compatability  
 
 
-<!-- ![](Images/Photos/PitClamp%20Mini%2057AIM30%204040%20Extrusion.jpg)  
-![](Images/Photos/PitClamp%20Mini%2057AIM30%204040%20Extrusion%20Front.jpg)  -->
-![](Images/Photos/PitClamp%20Mini%20Double%20Hinge%20Under%20Bed%20Storage.jpg)
-![](Images/Photos/PitClamp%20Mini%20Desk%20Clamp%20Basic.jpg)  
-![](Images/Photos/PitClamp%20Mini%20Minimal%20Clamp%20Components.jpg)  
-<!-- ![](Images/Photos/PitClamp%20Mini%2057AIM30%203030%20Extrusion%20Modular.jpg) -->
-![](Images/Photos/PitClamp%20Mini%2057AIM30%203030%20Extrusion%20Modular%20Packed.jpg)
-
-## Motor Head Support:
-  - Default OSSM (57AIM and iHSV57 NEMA23)
-  - SpockAroundTheClock's Compact Motor Head (42AIM)
-  - just_b's Universal Motor Head (57AIM, 42AIM, and iHSV57 NEMA23)
-
-
-## Motor Rings:
+## Motor Rings
 
 **57AIM - 57AIM15, 57AIM30**  
 ![](Images/Renders/View%204/PitClamp%20Mini%20-%2057AIM%20-%20Without%20Head.png)  
@@ -73,29 +66,15 @@ Stress tested to 50 ft-lb without grip being compromised. (PLA 5 walls 15% cross
 <!-- ![](Images/Renders/View%201/PitClamp%20Mini%20-%2042AIM%20-%20Complete.png)   -->
 
 
-## Printing:
-The entire project is intended for:  
-  - 0.4mm nozzle (Wider should not cause problems)
-  - 0.2mm layer height (Necessary for some built-in helper features)
-  - Standard strength (5 wall) profile
-  - 15% gyroid or crosshatch infill
-    - Higher infill optional
+## Photos
+<!-- ![](Images/Photos/PitClamp%20Mini%2057AIM30%204040%20Extrusion.jpg)  
+![](Images/Photos/PitClamp%20Mini%2057AIM30%204040%20Extrusion%20Front.jpg)  -->
+![](Images/Photos/PitClamp%20Mini%20Double%20Hinge%20Under%20Bed%20Storage.jpg)
+![](Images/Photos/PitClamp%20Mini%20Desk%20Clamp%20Basic.jpg)  
+![](Images/Photos/PitClamp%20Mini%20Minimal%20Clamp%20Components.jpg)  
+<!-- ![](Images/Photos/PitClamp%20Mini%2057AIM30%203030%20Extrusion%20Modular.jpg) -->
+![](Images/Photos/PitClamp%20Mini%2057AIM30%203030%20Extrusion%20Modular%20Packed.jpg)
 
-All parts tested in PLA and PETG  
-
-Supports required for:
-  - PitClamp Mini - Common - Handle
-  - PitClamp Mini - Base - Standard - Lower
-  - PitClamp Mini - Common - Upper
-  - PitClamp Mini - Ring - 57AIM
-  - PitClamp Mini - Ring - iHSV57
-
-![](Images/Print/PitClamp%20Mini.png)  
-![](Images/Print/PitClamp%20Mini%20-%20Rings.png)  
-
-Optional accent color for logo.  
-Requires AMS, just paint bucket the flush lettering faces:
-![](Images/Print/PitClamp%20Mini%20Branding.png)  
 
 ## Roadmap  
 **Motor Rings:**
