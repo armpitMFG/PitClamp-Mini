@@ -12,11 +12,13 @@ Recommended only for lighter use cases at this time.
 
 ## BOM
 For attaching to 3030 extrusion:  
+1mm offset
 
       2x M6x20 Socket Cap Head Bolt //TODO: Confirm that M6x25 is too long
       2x M6 T-Nut
 
 For attaching to 4040 extrusion:  
+6mm offset
 
       2x M6x25 Socket Cap Head Bolt
       2x M6 T-Nut
