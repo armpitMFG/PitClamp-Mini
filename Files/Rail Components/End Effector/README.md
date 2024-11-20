@@ -14,7 +14,7 @@ Multipurpose_End_Effector_Tensioner_Short will give you 25mm additional travel b
 //TODO
 
 **Hardware**  
-//TODO
+2x m3x16 + nuts
 
 **Printing**  
 Use a 2 layer raft under the threads for better adhesion  
