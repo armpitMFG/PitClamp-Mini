@@ -22,7 +22,7 @@ Stress tested to 50 ft-lb without grip being compromised. (PLA 5 walls 15% cross
 
 ### [Demonstration Videos (SFW)](DEMONSTRATION_VIDEOS.md)
 
-### [Updates](UPDATES.md) (Last updated - 09.08.2024)
+### [Updates](UPDATES.md) (Last updated - 11.22.2024)
 
 
 ![](Images/Renders/Primary/Closed.png)
