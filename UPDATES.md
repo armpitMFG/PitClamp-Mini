@@ -2,6 +2,7 @@ A stream of updates made to this repo
 
 _Links may go bad, if a reference changes I am not keeping it updated in this file._
 
+- 11.22.2024 - Added v1.1 57AIM Ring (Latest recommended default)
 - 09.08.2024 - Refactored file structure.
 - 09.08.2024 - Updated to new default files to simplify BOM. 
 - 09.04.2024 - Added **Standard Base w/ Helper Brim** STEP file to [Files](/Files/) folder _(Helps prevent latch corner from lifting during print)_
