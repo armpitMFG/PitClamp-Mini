@@ -3,10 +3,11 @@
 ## Motor Rings:
 
 ### 57AIM 
-Default Motor Head, use Default  
+Default Motor Head, use Default (v1.1 ring)
 Alternate Head, use Alternate
 
-    4x M5x40 Socket Cap Head Bolt
+    v1.1 ring - can use 4x M5x35 Socket Cap Head Bolt (Default that are included with R+D OSSM parts kit)
+    Other rings - use 4x M5x40 Socket Cap Head Bolt
     4x M5 Nuts
 
 ### iHSV57
