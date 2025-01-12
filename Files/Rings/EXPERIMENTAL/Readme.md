@@ -6,4 +6,4 @@ These parts should only be used if you know what you're doing, they may cause yo
 
 ## 60AIM40F Motor Ring
 ![Example](PitClamp%20Mini%20-%20Ring%20-%2060AIM40F%20-%207mm%20Offset%20+%20Passthru.PNG)
-Printed, untested for motor fit.
+Print tested and motor fit confirmed.
