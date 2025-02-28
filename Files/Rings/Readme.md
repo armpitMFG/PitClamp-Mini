@@ -1,5 +1,8 @@
     //TODO Fill this out better.  
 
+v1.1 Ring (only available for 57AIM) can use M5 nuts or M5 Coupling Nuts (20mm) and has ridges for an interlocking connection to an optional rear motor cover. This is the recommended setup.  
+This ring uses 4x M5x35 to attach to the OSSM motor head.
+
 ### Pick a ring for your motor based on which actuator head design you are using.  
  - **"Default"** has two diagonal motor mounting bolts recessed an additional 5mm.
     - This is to match the Default OSSM motor head allowing for 4x m5x40mm to be used instead of needing m5x45 for two of them due to the offsets of these mounts in the motor head.
@@ -9,7 +12,5 @@
 After testing various designs, the offset has been standardized at +5mm to allow ample clearance for rail tensioners and a sturdier ring.  
 
 Passthru allows for the option of running wires through the ring.  
-
-v1.1 Ring (only available for 57AIM) can use M5 nuts or M5 Coupling Nuts (20mm) and has ridges for an interlocking connection to an optional rear motor cover. This is the recommended setup.
 
 Most common would be 57AIM - Default, which uses ["PitClamp Mini - Ring v1.1 - 57AIM - 5mm Offset +Passthru.stl"](https://github.com/armpitMFG/PitClamp-Mini/blob/main/Files/Rings/PitClamp%20Mini%20-%20Ring%20v1.1%20-%2057AIM%20-%205mm%20Offset%20%2BPassthru.stl)
