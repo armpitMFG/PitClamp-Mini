@@ -12,7 +12,7 @@ Stress tested to 50 ft-lb without grip being compromised. (PLA 5 walls 15% cross
   - just_b's Universal Motor Head (57AIM, 42AIM, and iHSV57 NEMA23)  
 
 
-### [Purchase A Kit From Research And Desire](https://www.researchanddesire.com/products/pitclamp-mini)
+### [Purchase A Kit From armpitMFG](https://armpitmfg.etsy.com)
 
 ### [Print Files And Instructions](/Files/)  
 
