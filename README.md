@@ -121,3 +121,13 @@ These bases are being reworked for the PitClamp Mini form factor
 
 ![](Images/Renders/Base%20Concepts/SC40%20Pneumatic%20Air%20Cylinder%20Base.png)  
 ![](Images/Renders/Base%20Concepts/Tabletop%20Fully%203d%20Printed%20Base.png)  
+
+
+## Licensing
+
+Open-source hardware under the
+**[CERN Open Hardware Licence Version 2 - Strongly Reciprocal](LICENSE)**
+(`CERN-OHL-S-2.0`), the same licence as the
+[OSSM project](https://github.com/KinkyMakers/OSSM-hardware).
+
+Copyright and attribution: [NOTICE.md](NOTICE.md).
